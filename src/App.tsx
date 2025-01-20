@@ -69,7 +69,7 @@ export default function App() {
             <span className="text-gray-500">Developed by some cool geeks 😎</span>
             <div className="flex items-center gap-2">
               <a 
-                href="https://github.com/kartikey-mittal" 
+                href="https://www.istesrmncr.in/team-details/kartikey-mittal" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="text-purple-400 hover:text-purple-300 transition-colors duration-300"
@@ -78,7 +78,7 @@ export default function App() {
               </a>
               <span>&</span>
               <a 
-                href="https://github.com/aydee-akash" 
+                href="https://www.istesrmncr.in/core-team-details/akash-deep" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="text-blue-400 hover:text-blue-300 transition-colors duration-300"
